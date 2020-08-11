@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es-PY" translate="no">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="google" content="notranslate">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>COVID-19 Paraguay</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons">
+  <style>
+    .app__app_loader {
+      top: 0;
+      left: 0;
+
+    }
+    .app_loader__img {
+
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      animation:
+          loading-animation
+          2s
+          ease
+          0s
+          infinite;
+    }
+    @keyframes loading-animation {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: .5;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+<noscript>
+  <strong>Esta aplicación requiere JavaScript para su correcto funcionamiento.</strong>
+</noscript>
+<div id="app">
+  <div class="app__app_loader">
+    <img  class="app_loader__img" src="img/icons/android-icon-192x192.png" alt="Cargando" />
+  </div>
+</div>
+<!-- built files will be auto injected -->
+</body>
+</html>
