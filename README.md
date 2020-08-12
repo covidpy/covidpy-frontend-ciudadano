@@ -18,11 +18,7 @@ npm 3+
 Typescript
 ```
 
-Nota:
-
-* Todos los cambios actualizados del código fuente se enccuentran en la rama master
-
-###Instalar paquetes npm
+### Instalar paquetes npm
 
 Clonar el proyecto y dirigirse a la carpeta que posee el archivo package.json (Raíz del proyecto). Instale los paquetes npm descritos en package.json de la siguiente manera:
 
@@ -30,7 +26,7 @@ Clonar el proyecto y dirigirse a la carpeta que posee el archivo package.json (R
 npm install
 ```
 
-###Levantar en modo desarrollo
+### Levantar en modo desarrollo
 
 Una vez que se hayan terminado de instalar las dependencias, proceder a levantar el proyecto con el siguiente comando:
 
@@ -46,7 +42,7 @@ http://localhost:4200
 
 Ciérrelo manualmente presionando las teclas `Ctrl-C`.
 
-##Modo producción
+### Modo producción
 
 El comando `npm run build` compila la aplicación y genera una carpeta **dist** en la raíz del proyecto. Dicha carpeta es la que debe ser deployada en algún servidor apache o nginx.
 
