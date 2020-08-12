@@ -1,3 +1,5 @@
+![Figura 1](https://github.com/covidpy/covidpy-frontend-ciudadano/blob/master/src/assets/QuedateEnCasa.png)
+
 # Proyecto del Sistema de Seguimiento de pacientes (frontend pacientes).
 # Aplicación PWA - frontend pacientes
 
