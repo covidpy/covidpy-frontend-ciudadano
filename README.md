@@ -1,7 +1,7 @@
 # Proyecto del Sistema de Seguimiento de pacientes (frontend pacientes).
 # Aplicación PWA - frontend pacientes
 
-Proyecto frontend para el sistema de seguimiento de pacientes Covid19 Paraguay. 
+Proyecto frontend para el sistema de seguimiento de pacientes Covid19 Paraguay. Ver video informativo de funcionalidades en: https://www.youtube.com/watch?v=iTwPWf7bbD8
 
 ## Introducción
 
