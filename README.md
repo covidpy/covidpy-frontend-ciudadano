@@ -1,11 +1,12 @@
-<img src="https://github.com/covidpy/covidpy-documentacion/blob/master/screen_pwa/home.jpeg" width="250" height="400">
-
 # Proyecto del Sistema de Seguimiento de pacientes (frontend pacientes).
 # Aplicación PWA - frontend pacientes
+
+<img src="https://github.com/covidpy/covidpy-documentacion/blob/master/screen_pwa/home.jpeg" width="250" height="400">
 
 Proyecto frontend para el sistema de seguimiento de pacientes Covid19 Paraguay. Ver video informativo de funcionalidades en: https://www.youtube.com/watch?v=iTwPWf7bbD8
 
 ## Introducción
+
 
 Estas instrucciones permitirán levantar el proyecto frontend.
 
