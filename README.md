@@ -1,4 +1,4 @@
-![Figura 1](https://github.com/covidpy/covidpy-documentacion/blob/master/screen_pwa/home.jpeg)
+<img src="https://github.com/covidpy/covidpy-documentacion/blob/master/screen_pwa/home.jpeg" width="250" height="400">
 
 # Proyecto del Sistema de Seguimiento de pacientes (frontend pacientes).
 # Aplicación PWA - frontend pacientes
